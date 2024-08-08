@@ -8,7 +8,7 @@
                                                              
 ```
 
-# Lost My Flipper Zero and had to stop the development of this project!
+# <mark>Lost My Flipper Zero and had to stop the development of this project!</mark>
 
 
 Since I didnt find any website, and could only manage to get NFC through apps, this project intends to eliminate the use of phone to create NFC custom files for the Flipper Zero.
